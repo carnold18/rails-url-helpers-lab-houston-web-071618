@@ -43,17 +43,10 @@ GEM
     capybara (3.5.1)
       addressable
       mini_mime (>= 0.1.3)
-<<<<<<< HEAD
       nokogiri (~> 1.8)
       rack (>= 1.6.0)
       rack-test (>= 0.6.3)
       xpath (~> 3.1)
-=======
-      nokogiri (>= 1.3.3)
-      rack (>= 1.0.0)
-      rack-test (>= 0.5.4)
-      xpath (>= 2.0, < 4.0)
->>>>>>> 20a39206ae50b9a02b3d46f6c1b757c36f1fe1d1
     coffee-rails (4.1.1)
       coffee-script (>= 2.2.0)
       railties (>= 4.0.0, < 5.1.x)
@@ -96,13 +89,8 @@ GEM
     multi_json (1.13.1)
     nokogiri (1.8.4)
       mini_portile2 (~> 2.3.0)
-<<<<<<< HEAD
     public_suffix (3.0.2)
     rack (1.6.10)
-=======
-    public_suffix (3.0.1)
-    rack (1.6.8)
->>>>>>> 20a39206ae50b9a02b3d46f6c1b757c36f1fe1d1
     rack-test (0.6.3)
       rack (>= 1.0)
     rails (4.2.10)
@@ -146,21 +134,12 @@ GEM
       actionpack (>= 3.0)
       activesupport (>= 3.0)
       railties (>= 3.0)
-<<<<<<< HEAD
       rspec-core (~> 3.8.0)
       rspec-expectations (~> 3.8.0)
       rspec-mocks (~> 3.8.0)
       rspec-support (~> 3.8.0)
     rspec-support (3.8.0)
     sass (3.5.7)
-=======
-      rspec-core (~> 3.7.0)
-      rspec-expectations (~> 3.7.0)
-      rspec-mocks (~> 3.7.0)
-      rspec-support (~> 3.7.0)
-    rspec-support (3.7.0)
-    sass (3.5.5)
->>>>>>> 20a39206ae50b9a02b3d46f6c1b757c36f1fe1d1
       sass-listen (~> 4.0.0)
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
@@ -194,11 +173,7 @@ GEM
       thread_safe (~> 0.1)
     uglifier (4.1.18)
       execjs (>= 0.3.0, < 3)
-<<<<<<< HEAD
     xpath (3.1.0)
-=======
-    xpath (3.0.0)
->>>>>>> 20a39206ae50b9a02b3d46f6c1b757c36f1fe1d1
       nokogiri (~> 1.8)
 
 PLATFORMS
@@ -222,8 +197,4 @@ DEPENDENCIES
   uglifier (>= 1.3.0)
 
 BUNDLED WITH
-<<<<<<< HEAD
    1.16.1
-=======
-   1.16.3
->>>>>>> 20a39206ae50b9a02b3d46f6c1b757c36f1fe1d1
